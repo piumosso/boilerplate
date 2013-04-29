@@ -2,6 +2,4 @@ require([
     'jquery',
     'underscore',
     'backbone'
-], function(){
-    console.log(arguments);
-});
+], function($, _, Backbone){});
