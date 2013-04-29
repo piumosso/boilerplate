@@ -1,4 +1,1 @@
-boilerplate
-===========
-
-Boilerplate для статики с jQuery, Require.js, Backbone
+Boilerplate для статики с jQuery, Require.js и Backbone
